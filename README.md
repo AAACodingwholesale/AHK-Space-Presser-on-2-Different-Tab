@@ -3,5 +3,7 @@ A Windows Auto Hotkey V2 script that can press space on 2 different tabs. For ex
 Also works for youtube and such needs for space on 2 different tabs.
 If you need it not play at the exact same time, change the delay at the top, and adjust how you like.
 
-HOW TO USE!!!
+HOW TO USE!!! 
+
+
 Set left window = Ctrl+Alt+1, right window = Ctrl+Alt+2, then press Ctrl+Alt+S to send Space to left then right as fast as Windows allows. (Ctrl+Alt+B sends Backspace to both.)
